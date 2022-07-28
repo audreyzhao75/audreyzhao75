@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Audrey!
 - 👀 I’m interested in UI/UX Design and Computer Science!
-- 🌱 I’m currently majoring in Cognitive Science, Design and Interaction and minoring in Computer Science!
-- 📫 How to reach me: email me at a2zhao@ucsd.edu!
+- 🌱 I graduated from the University of California, San Diego (UCSD) with a B.S. in Cognitive Science, Design and Interaction and a minor in Computer Science!
+- 📫 How to reach me (for questions or resume): email me at a2zhao@ucsd.edu!
 
 <!---
 audreyzhao75/audreyzhao75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
